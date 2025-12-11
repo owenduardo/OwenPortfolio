@@ -177,7 +177,7 @@ export const portfolioData = {
       liveUrl: "#",
       codeUrl: "#",
       pptUrl: "#",
-    }
+    },
     {
       id: 4,
       title: "Portfolio web",

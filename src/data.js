@@ -7,7 +7,7 @@ export const portfolioData = {
   skills: [
     "HTML", "CSS", "JavaScript", "Python",
     "UI/UX Design", "Power Point", "Excel",
-    "Canva", "Word"
+    "Canva", "Word", "JAVA", "React"
   ],
   socialLinks: [
     
@@ -95,8 +95,8 @@ export const portfolioData = {
           "Ransomware continues to grow as a major threat, often bypassing traditional signature-based defenses. Many machine-learning systems also act as 'black boxes,' providing no clarity on why a file is flagged, which limits user trust.",
           "Our project combines machine learning with Explainable AI (XAI) to create a detection system that is both accurate and transparent. By analyzing PE file structures, the model identifies malicious patterns and clearly explains the features behind each prediction, improving reliability and user understanding against emerging threats."
       ],
-      date: "March 2024 - June 2024",
-      duration: "4 months",
+      date: "March 2025 - October 2025",
+      duration: "7 months",
       role: "Front-end Developer",
       mainImage: "/images/web2.png", // For portfolio card
       images: [ // For modal gallery
@@ -174,6 +174,25 @@ export const portfolioData = {
         "Simple, clean , and user-friendly design"
       ],
       tags: ["HTML", "CSS", "JavaScript"],
+      liveUrl: "#",
+      codeUrl: "#",
+      pptUrl: "#",
+    }
+    {
+      id: 4,
+      title: "Portfolio web",
+      description: "Owen Duardo Portfolio",
+      date: "December 2025",
+      duration: "1 week",
+      role: "Developer",
+       mainImage: "/images/por.png", // For portfolio card
+      images: [ // For modal gallery
+      "/images/por1.png",
+      "/images/por2.png", 
+      "/images/por2.png", 
+      ],
+      videoUrl: "#",
+      tags: ["HTML", "CSS", "JavaScript", "Tailwind", "React"],
       liveUrl: "#",
       codeUrl: "#",
       pptUrl: "#",

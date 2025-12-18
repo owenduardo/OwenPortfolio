@@ -117,7 +117,7 @@ export const portfolioData = {
       ],
       liveUrl: "#",
       codeUrl: "#",
-      pptUrl: "#",
+      pptUrl: "https://docs.google.com/presentation/d/1gfZkxDeHbQngmRAmTSYDazCgAgu6ofe6UZEhh2TWdiE/edit?usp=sharing",
     },
     
     {
@@ -146,7 +146,7 @@ export const portfolioData = {
       tags: ["Java"],
       liveUrl: "#",
       codeUrl: "#",
-      pptUrl: "#",
+      pptUrl: "https://docs.google.com/presentation/d/1jhZ09qdsR3HxZri6Ak7QdN0DqtYa3YUd/edit?usp=sharing&ouid=113109015958143820023&rtpof=true&sd=true",
     },
     {
       id: 3,
@@ -176,7 +176,7 @@ export const portfolioData = {
       tags: ["HTML", "CSS", "JavaScript"],
       liveUrl: "#",
       codeUrl: "#",
-      pptUrl: "#",
+      pptUrl: "https://docs.google.com/presentation/d/1veypfy339lcbOCMDHt7-NzGhLs24uM1y/edit?usp=sharing&ouid=113109015958143820023&rtpof=true&sd=true",
     },
     {
       id: 4,
